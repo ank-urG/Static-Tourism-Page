@@ -1,2 +1,2 @@
 # Static-Tourism-Page
-This website promotes tourism
+This website promotes tourism.
